@@ -1,4 +1,6 @@
 /*
+    Source: https://github.com/bernhof/sql-util/
+
     Locates objects in SQL Server whose definitions contain the specified search term.
     Supports wild cards.
     If wild cards are used the procedure will not be able to count occurrences.
