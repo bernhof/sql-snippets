@@ -1,4 +1,6 @@
 /*
+  Source: https://github.com/bernhof/sql-util/
+
   Adds/subtracts a number of business days to a given date.
   This function assumes that business days are Monday-Friday.
 
