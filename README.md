@@ -12,4 +12,4 @@ Functionality, behaviour and attribution (where applicable) is described within 
 
 * [Calendar](https://github.com/bernhof/sql-util/blob/master/get-calendar.sql) table-valued function that generates dates in a certain interval and culture.
 
-* [SQL Server Agent Job Status reporting](https://github.com/bernhof/sql-util/blob/master/check-mk-agent-job-status-report.sql) - View that reports status about a given MSSQL Agent Job, adapted for [Check MK](https://github.com/tribe29/checkmk) monitoring. Reports status, last run, run time and error message, if any. Reports a warning if job hasn't run for a period of time.
+* [SQL Server Agent Job Status reporting for Check MK](https://github.com/bernhof/sql-util/blob/master/check-mk-agent-job-status-report.sql) - View that reports status about a given MSSQL Agent Job, adapted for [Check MK](https://github.com/tribe29/checkmk) monitoring. Reports status, last run, run time and error message, if any. Reports a warning if job hasn't run for a period of time.
